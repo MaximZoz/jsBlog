@@ -1,9 +1,9 @@
-# firebase
+# deploy
 
-### CreateComponent
+### LoaderComponent
 
-### FavoriteComponent
+### renderPost
 
-### NavigationComponent
+### ApiService
 
-### PostsComponent
+### TransformService
